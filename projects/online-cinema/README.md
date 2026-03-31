@@ -19,7 +19,7 @@
 
 | Диаграмма | Описание | Ссылка |
 |-----------|----------|--------|
-| UCD-1 | Use Case Diagram | [PNG](./diagrams/images/UCD-1. Оформление подписки.png) |
+| UCD-1 | Use Case Diagram | [PNG]("./diagrams/images/UCD-1. Оформление подписки.png") |
 | BPMN-1 | Процесс оформления подписки | [PNG](./diagrams/images/BPMN-1. Процесс оформления подписки.png) |
 | SD-1 | Sequence Diagram | [PNG](./diagrams/images/SD-1. Оформление подписки.png) |
 | SM-1 | State Machine (жизненный цикл подписки) | [PNG](./diagrams/images/SM-1. Жизненный цикл подписки.png) |
